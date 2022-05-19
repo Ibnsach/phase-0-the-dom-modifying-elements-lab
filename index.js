@@ -27,3 +27,4 @@ element.style.marginLeft = "30px";
 element.style.lineHeight = 2;
 
 element.className = "pet-listing dog";
+element.textContent = "Your-Name is a champion";

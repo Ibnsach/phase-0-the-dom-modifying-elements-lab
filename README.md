@@ -288,7 +288,7 @@ element. [This StackOverflow answer][so answer] does a good job explaining some
 differences between these properties.
 
 [mdn textcontent]:
-  https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent
+  https://developer.mozilla.org/en-US/docs/WePI/Node/textContent
 [mdn innerhtml]:
   https://developer.mozilla.org/en-US/docs/Web/API/Element/innerHTML
 [so answer]: https://stackoverflow.com/a/35213639
